@@ -12,9 +12,7 @@ const OurTeam = () => {
         </h1>
         <div className="flex flex-col items-center md:items-start w-full gap-4">
           <p className="font-medium">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Exercitationem nobis nulla iusto, consequuntur porro dolore aperiam
-            tempora amet illo vel? Veniam omnis sit eveniet excepturi.
+          Our dedicated team of poultry enthusiasts and AI experts is here to ensure your chickens receive the best care possible.Meet the people behind the feathers who are passionate about poultry health and committed.
           </p>
           <BtnPrimary>Connect Us</BtnPrimary>
         </div>

@@ -7,7 +7,7 @@ const QualityAndCards = () => {
             <div className='w-full text-center md:text-start items-center  md:flex  py-5 gap-4'>
                 <h1 className='text-xl md:text-2xl lg:text-4xl font-extrabold text-[#0E584D] tracking-wider md:w-[40%]'>Quality, innovation and food safety.</h1>
                 <div className='flex flex-col items-center md:items-start w-full gap-4'>
-                    <p className='font-medium'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem nobis nulla iusto, consequuntur porro dolore aperiam tempora amet illo vel? Veniam omnis sit eveniet excepturi.</p>
+                    <p className='font-medium'>We uphold the highest standards of quality, infuse innovation into every aspect of our technology, and prioritize food safety to guarantee the well-being of your flock and the quality of your poultry products.</p>
                     <BtnPrimary>Discover More</BtnPrimary>
                 </div>
             </div>

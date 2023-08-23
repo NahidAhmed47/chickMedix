@@ -16,8 +16,7 @@ const HomeBanner = () => {
             Poultry Farming
           </h1>
           <p className="text-[#EDECD8] font-medium text-xs md:text-sm lg:text-base py-4 md:py-6 max-w-[651px]">
-            All of our chickens are grown by the Soanes family and their farming
-            neighbours on farms in and around the Yorkshire Wolds.
+          Learn more about our mission, our team of experts, and the technology behind Chicken Health Check on our About Us page.
           </p>
           <div className="flex justify-center">
           <BtnPrimary>Discover More</BtnPrimary>

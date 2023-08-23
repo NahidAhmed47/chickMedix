@@ -6,7 +6,7 @@ import { FaBars, FaTimes } from "react-icons/fa";
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     return (
-        <div className='py-1 bg-[#E0B10B]'>
+        <div className='py-1.5 bg-[#E0B10B]'>
             <div className='max-width relative flex justify-between'>
                 {/* logo here */}
                 <div className='h-fit w-fit absolute -top-2 left-0 px-[10px] py-4 xl:px-[15px] xl:py-5 bg-white z-10 flex justify-center flex-col items-center rounded-b-xl shadow-lg'>
