@@ -19,7 +19,9 @@ const HomeBanner = () => {
             All of our chickens are grown by the Soanes family and their farming
             neighbours on farms in and around the Yorkshire Wolds.
           </p>
+          <div className="flex justify-center">
           <BtnPrimary>Discover More</BtnPrimary>
+          </div>
         </div>
       </div>
     </div>
