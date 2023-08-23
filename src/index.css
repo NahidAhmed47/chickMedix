@@ -9,5 +9,5 @@
 }
 
 .max-width{
-  @apply max-w-[1280px] mx-auto px-3 md:px-5 lg:px-7 2xl:px-0 
+  @apply max-w-[1200px] mx-auto px-3 md:px-5 lg:px-7 2xl:px-0 
 }
