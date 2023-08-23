@@ -5,7 +5,7 @@ import BtnPrimary from "../../../components/btn/BtnPrimary";
 const HomeBanner = () => {
   return (
     <div
-      className="min-h-[60vh] md:h-screen w-full bg-no-repeat bg-center md:bg-cover "
+      className="min-h-[60vh] md:h-[calc(100vh-40px)] w-full bg-no-repeat bg-center md:bg-cover "
       style={{ backgroundImage: `url(${sliderImg})` }}
     >
       <div className="flex items-center justify-center w-full min-h-[60vh] h-full" style={{backgroundColor:' transparent',
