@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className='max-width relative flex justify-between'>
                 {/* logo here */}
                 <div className='h-fit w-fit absolute -top-2 left-0 px-[10px] py-4 xl:px-[15px] xl:py-5 bg-white z-10 flex justify-center flex-col items-center rounded-b-xl shadow-lg'>
-                    <img src="/src/assets/logo.png" alt="logo" className='h-[50px] lg:h-auto md:w-[55px] lg:w-[60px]' />
+                    <img src="https://i.ibb.co/12JFZZk/logo.png" alt="logo" className='h-[50px] lg:h-auto md:w-[55px] lg:w-[60px]' />
                     <h1 className='text-sm md:text-base lg:text-lg font-extrabold mt-1 text-[#E0B10B] font-sans'>ChickMedix</h1>
                 </div>
                 <div ></div>
